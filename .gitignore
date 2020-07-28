@@ -1,0 +1,6 @@
+node_modules
+.env
+auctions.sqlite
+json.sqlite
+.node-gyp
+redis.conf

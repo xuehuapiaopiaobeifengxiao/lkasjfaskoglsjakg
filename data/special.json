@@ -1,0 +1,161 @@
+[
+  {
+    "id": "0_s",
+    "names": {
+      "english": "Erorr",
+      "japanese": "Erorr",
+      "chinese": "Erorr",
+      "french": "Erorr"
+    },
+    "type": ["Error"],
+    "base": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "satk": 0,
+      "sdef": 0,
+      "spd": 0
+    },
+    "image": "",
+    "altnames": [],
+    "before": [],
+    "after": [],
+    "evolveAt": "",
+    "shiny": "",
+    "spawnrate": "2"
+  },
+    {
+    "id": "2_s",
+    "names": {
+      "english": "Shadow Mewtwo",
+      "japanese": "シャドウミュウツー",
+      "chinese": "影子喵",
+      "french": "Shadow Mewtu"
+    },
+    "type": ["Psychic"],
+    "base": {
+      "hp": 106,
+      "atk": 110,
+      "def": 90,
+      "satk": 154,
+      "sdef": 90,
+      "spd": 130
+    },
+    "image": "https://cdn.discordapp.com/attachments/656517276832366595/732903491114369054/sm.png",
+    "altnames": [],
+    "before": [],
+    "after": [],
+    "evolveAt": "",
+    "shiny": "https://cdn.discordapp.com/attachments/656517276832366595/732903491353182298/sms.png",
+    "spawnrate": "0"
+    },
+    {
+    "id": "3_s",
+    "names": {
+      "english": "Shadow Lugia",
+      "japanese": "ダークルギア",
+      "chinese": "暗影露西亚",
+      "french": "Lugia Obscur"
+    },
+    "type": [
+      "Psychic",
+      "Flying"
+    ],
+    "base": {
+      "hp": 106,
+      "atk": 130,
+      "def": 90,
+      "satk": 154,
+      "sdef": 90,
+      "spd": 110
+    },
+    "image":"https://cdn.discordapp.com/attachments/656517276832366595/732903490208268308/sl.png",
+    "altnames": [],
+    "before": [],
+    "after": [],
+    "evolveAt": "",
+    "shiny": "https://cdn.discordapp.com/attachments/656517276832366595/732903490837282888/sls.png",
+    "spawnrate": "0"
+    },
+  {
+    "id": "4_s",
+    "names": {
+      "english": "Giratina Origin",
+      "japanese": "ギラティナ",
+      "chinese": "騎拉帝納",
+      "french": "Giratina Origin"
+    },
+    "type": [
+      "Ghost",
+      "Dragon"
+    ],
+    "base": {
+      "hp": 150,
+      "atk": 120,
+      "def": 100,
+      "satk": 120,
+      "sdef": 100,
+      "spd": 90
+    },
+    "image": "https://cdn.discordapp.com/attachments/656517276832366595/732965356813025290/pokemon-12.png",
+    "altnames": [],
+    "before": [],
+    "after": [],
+    "evolveAt": "",
+    "shiny": "https://cdn.discordapp.com/attachments/656517276832366595/732965428930019378/Giratina-origin-shiny.png",
+    "spawnrate": "0"
+  },
+  {
+    "id": "5_s",
+    "names": {
+      "english": "Black Kyurem",
+      "japanese": "Black キュレム",
+      "chinese": "Black 酋雷姆",
+      "french": "Black Kyurem"
+    },
+    "type": ["Dragon",
+            "Electric"],
+    "base": {
+      "hp": 125,
+      "atk": 170,
+      "def": 100,
+      "satk": 120,
+      "sdef": 90,
+      "spd": 95
+    },
+    "image": "https://cdn.discordapp.com/attachments/656517276832366595/732978522888470608/Black_kyurem.png",
+    "altnames": [],
+    "before": [],
+    "after": [],
+    "evolveAt": "",
+    "shiny": "https://cdn.discordapp.com/attachments/656517276832366595/732978523890778212/Shiny-Kyurem-Black.png",
+    "spawnrate": "0"
+  },
+  {
+    "id": "6_s",
+    "names": {
+      "english": "White Kyurem",
+      "japanese": "White キュレム",
+      "chinese": "White 酋雷姆",
+      "french": "White Kyurem"
+    },
+    "type": [
+      "Dragon", 
+      "Ice"],
+    "base": {
+      "hp": 125,
+      "atk": 120,
+      "def": 90,
+      "satk": 170,
+      "sdef": 100,
+      "spd": 95
+    },
+    "image": "https://cdn.discordapp.com/attachments/656517276832366595/732978524197093426/White_kyurem.png",
+    "altnames": [],
+    "before": [],
+    "after": [],
+    "evolveAt": "",
+    "shiny": "https://cdn.discordapp.com/attachments/656517276832366595/732978524553740379/Shiny-Kyurem-White.png",
+    "spawnrate": "0"
+  }
+]

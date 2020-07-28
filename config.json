@@ -1,0 +1,40 @@
+{
+  "dbl": {
+    "webhookAuth": "",
+    "webhookName": ""
+  },
+  "client": {
+    "prefix": "."
+  },
+  "noPermission": {
+    "ATTACH_FILES": "I don't have the permission `attach files`, I need this permission to send images.",
+    "EMBED_LINKS": "I don't have the permission `embed links`, I need this permission to send embeds."
+  },
+  "embed": {
+    "color": "#0ba884",
+    "footer": ""
+  },
+  "abbreviations":[
+    ["pick","start"],
+    ["server","invite"],
+    ["pokemons","pokemon"],
+    ["claim","daily"],
+    ["accept","trade"],
+    ["p","trade"],
+    ["c","trade"],
+    ["r","trade"],
+    ["confirm", "trade"],
+    ["cancel", "trade"],
+    ["order","pokemon"]
+  ],
+  "spawnrates": {
+    "maxMessages": "100"
+  },
+  "claimAmount": "50",
+  "developers": [
+    "</RobinSch>#7994",
+    "RexTheD0g#4013",
+    "Ahsan#2732",
+    "ADIB HOQUE ⚒#8801"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "pokebot",
+  "version": "2.8.47",
+  "description": "A bot that will random spawn pokemons",
+  "main": "index.js",
+  "scripts": {
+    "start": "/app/bin/redis-server /app/redis.conf & node index.js"
+  },
+  "author": "RSG",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "dblapi.js": "^2.4.0",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.23",
+    "node-fetch": "^2.6.0",
+    "parse-ms": "^2.0.0",
+    "quick.db": "^7.1.1",
+    "request": "2.88.2",
+    "socket.io-client": "^2.3.0",
+    "ioredis": "^4.17.3",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.2.2"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
