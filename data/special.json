@@ -24,6 +24,50 @@
     "shiny": "",
     "spawnrate": "2"
   },
+  {
+    "id": "1_s",
+    "names": {
+      "english": "Leosaur",
+      "japanese": "Leosaur",
+      "chinese": "Leosaur",
+      "french": "Leosaur"
+    },
+    "type": [
+      "Fire",
+      "Water",
+      "Grass",
+      "Fairy",
+      "Psychic",
+      "Steel",
+      "Poison",
+      "Ground",
+      "Flying",
+      "Normal",
+      "Fighting",
+      "Dark",
+      "Ghost",
+      "Dragon",
+      "Bug",
+      "Ice",
+      "Electric",
+      "Rock"
+    ],
+    "base": {
+      "hp": 69,
+      "atk": 69,
+      "def": 69,
+      "satk": 69,
+      "sdef": 69,
+      "spd": 69
+    },
+    "image": "https://cdn.discordapp.com/avatars/530783624644132864/2ee7746484a26e8b20c702350dae0c89.png?size=512",
+    "altnames": [],
+    "before": [],
+    "after": [],
+    "evolveAt": "",
+    "shiny": "",
+    "spawnrate": "0"
+  },
     {
     "id": "2_s",
     "names": {
