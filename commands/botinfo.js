@@ -6,7 +6,7 @@ module.exports.run = async (client, message, args, prefix) => {
         .setAuthor(client.user.username, client.user.avatarURL)
         .setColor("#0ba884")
         .addField("🛰 Memory Usage", `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)} / ${(os.totalmem() / 1024 / 1024).toFixed(2)} MB`, true)
-        .addField('🌐 Shards', `${message.guild.shardID + 1}/${client.shard.count}`, true)
+        // .addField('🌐 Shards', `${message.guild.shardID + 1}/${client.shard.count}`, true)
         .addField("👤 Users (this shard)", client.users.cache.size, true)
         .addField("🏠 Servers (this shard)", client.guilds.cache.size, true)
         .addField("📚 Library", `Discord.js v.12x`, true)
