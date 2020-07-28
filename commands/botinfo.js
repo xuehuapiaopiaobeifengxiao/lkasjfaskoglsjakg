@@ -15,7 +15,7 @@ module.exports.run = async (client, message, args, prefix) => {
         .addField("🔖 Arch", `\`${os.arch()}\``, true)
         .addField("💻 Platform", `\`\`${os.platform()}\`\``, true)
         .addField("🤖 API Latency", `${Math.round(client.ws.ping)}ms`)
-        .addField("🔥 Official Server Link", `[Join our support server!](https://bit.ly/pokecord2)`)
+        .addField("🔥 Official Server Link", `[Join our support server!](https://discord.gg/NmfW6jF)`)
         .addField("🔥 Bot Invite Link", `[Invite our bot!](https://discord.com/api/oauth2/authorize?client_id=737432024867930175&permissions=2146827775&scope=bot)`)
         .addField("🛠 Developers", `${require('../config.json').developers.join('\n')}`)
       return message.channel.send(embed);
