@@ -21,7 +21,7 @@
     "request": "2.88.2",
     "socket.io-client": "^2.3.0",
     "ioredis": "^4.17.3",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.2.2"
   },
   "engines": {
